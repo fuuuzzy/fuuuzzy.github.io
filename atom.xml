@@ -8,7 +8,7 @@
     <author>
       <name>ztingfg</name>
     </author>
-    <updated>2024-07-08T10:20:00.000Z</updated>
+    <updated>2023-10-10T10:20:00.000Z</updated>
     <category term="java" />
     <entry>
         <id>https://fuuuzzy.github.io/serve-deploy/caddy/</id>
@@ -82,7 +82,7 @@
         <category term="java" scheme="https://fuuuzzy.github.io/tags/java/" />
         <category term="caddy" scheme="https://fuuuzzy.github.io/tags/caddy/" />
         <category term="linux" scheme="https://fuuuzzy.github.io/tags/linux/" />
-        <updated>2024-07-08T10:20:00.000Z</updated>
+        <updated>2023-10-10T10:20:00.000Z</updated>
     </entry>
     <entry>
         <id>https://fuuuzzy.github.io/Java/hello-world/</id>
@@ -104,6 +104,6 @@ on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9
 </content>
         <category term="Java" scheme="https://fuuuzzy.github.io/categories/Java/" />
         <category term="java" scheme="https://fuuuzzy.github.io/tags/java/" />
-        <updated>2024-07-08T06:20:00.000Z</updated>
+        <updated>2023-07-08T06:20:00.000Z</updated>
     </entry>
 </feed>

@@ -10,8 +10,8 @@
         </author>
         <description>编程爱好，擅长Java，学习分享，日常动态</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 08 Jul 2024 18:20:00 +0800</pubDate>
-        <lastBuildDate>Mon, 08 Jul 2024 18:20:00 +0800</lastBuildDate>
+        <pubDate>Tue, 10 Oct 2023 18:20:00 +0800</pubDate>
+        <lastBuildDate>Tue, 10 Oct 2023 18:20:00 +0800</lastBuildDate>
         <category term="java" />
         <item>
             <guid isPermalink="true">https://fuuuzzy.github.io/serve-deploy/caddy/</guid>
@@ -21,7 +21,7 @@
             <category term="java" scheme="https://fuuuzzy.github.io/tags/java/" />
             <category term="caddy" scheme="https://fuuuzzy.github.io/tags/caddy/" />
             <category term="linux" scheme="https://fuuuzzy.github.io/tags/linux/" />
-            <pubDate>Mon, 08 Jul 2024 18:20:00 +0800</pubDate>
+            <pubDate>Tue, 10 Oct 2023 18:20:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;caddy的使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#caddy的使用&#34;&gt;#&lt;/a&gt; Caddy 的使用&lt;/h1&gt;
 &lt;h2 id=&#34;简单的介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简单的介绍&#34;&gt;#&lt;/a&gt; 简单的介绍&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jYWRkeXNlcnZlci5jb20v&#34;&gt;Caddy&lt;/span&gt;&lt;br /&gt;
@@ -93,7 +93,7 @@
             <link>https://fuuuzzy.github.io/Java/hello-world/</link>
             <category term="Java" scheme="https://fuuuzzy.github.io/categories/Java/" />
             <category term="java" scheme="https://fuuuzzy.github.io/tags/java/" />
-            <pubDate>Mon, 08 Jul 2024 14:20:00 +0800</pubDate>
+            <pubDate>Sat, 08 Jul 2023 14:20:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more&lt;br /&gt;
 info. If you get any problems when using Hexo, you can find the answer&lt;br /&gt;
 in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me&lt;br /&gt;
