@@ -133,13 +133,11 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;设置全局账户 / 邮箱&lt;/td&gt;
-&lt;td colspan=&#34;2&#34;&gt;git config --global (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3VzZXIubmFtZQ==&#34;&gt;user.name&lt;/span&gt; &amp;quot;&amp;quot; )&lt;/td&gt;
-&lt;td&gt;(user.email &amp;quot;&amp;quot;)&lt;/td&gt;
+&lt;td&gt;git config --global (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3VzZXIubmFtZQ==&#34;&gt;user.name&lt;/span&gt; &amp;quot;&amp;quot; )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;设置当前仓库账户 / 邮箱&lt;/td&gt;
-&lt;td colspan=&#34;2&#34;&gt;git confit --local (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3VzZXIubmFtZQ==&#34;&gt;user.name&lt;/span&gt; &amp;quot;&amp;quot; )&lt;/td&gt;
-&lt;td&gt;(user.email &amp;quot;&amp;quot;)&lt;/td&gt;
+&lt;td&gt;git confit --local (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3VzZXIubmFtZQ==&#34;&gt;user.name&lt;/span&gt; &amp;quot;&amp;quot; )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;覆盖之前的提交信息&lt;/td&gt;
