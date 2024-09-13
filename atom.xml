@@ -295,22 +295,38 @@
         <updated>2023-10-10T10:20:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fuuuzzy.github.io/Java/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="https://fuuuzzy.github.io/Java/hello-world/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more&lt;br /&gt;
-info. If you get any problems when using Hexo, you can find the answer&lt;br /&gt;
-in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me&lt;br /&gt;
-on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+        <id>https://fuuuzzy.github.io/Java/java-kill/</id>
+        <title>记录排除java部署在服务器无故停止</title>
+        <link rel="alternate" href="https://fuuuzzy.github.io/Java/java-kill/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;  前两天部署了一个java程序在服务器，服务器是2核2G的，但每次部署后
+  持续一段时间后，会无故进程停止了，没有任何日志记录，查看业务日志，java进程是正常退出的
+  也通过添加JVM一些启动参数来生成错误日志以及堆转储日志，都没有发现问题
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;可能导致进程被杀掉的情况&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可能导致进程被杀掉的情况&#34;&gt;#&lt;/a&gt; 可能导致进程被杀掉的情况&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;内存泄漏；&lt;/li&gt;
+&lt;li&gt;进程所需的内存资源太大，对于 java 进程而言，除了 - Xmx 设置最大堆大小，还需要考虑元数据空间、堆外内存、直接内存的使用；&lt;/li&gt;
+&lt;li&gt;其他进程需要占用较多的资源，但是被 OOM Killer 机制选中当前进程；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;主要介绍linux的oom-killer机制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主要介绍linux的oom-killer机制&#34;&gt;#&lt;/a&gt; 主要介绍 Linux 的 OOM Killer 机制&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;Linux 内核有个机制叫OOM killer(Out Of Memory killer)，该机制会监控那些占用内存过大，尤其是瞬间占用内存很快的进程，然后防止内存耗尽而自动把该进程杀掉。内核检测到系统内存不足、挑选并杀掉某个进程的过程可以参考内核源代码linux/mm/oom_kill.c，当系统内存不足的时候，out_of_memory()被触发，然后调用select_bad_process()选择一个”bad”进程杀掉。如何判断和选择一个”bad进程呢？linux选择”bad”进程是通过调用oom_badness()，挑选的算法和想法都很简单很朴实：最bad的那个进程就是那个最占用内存的进程。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;怎么避免oom-killer误杀我的业务进程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#怎么避免oom-killer误杀我的业务进程&#34;&gt;#&lt;/a&gt; 怎么避免 OOM Killer 误杀我的业务进程？&lt;/h3&gt;
+&lt;p&gt;避免 oom killer 的方案&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;直接修改 /proc//oom_score_adj 文件，将其置为 - 1000&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;以前是通过/proc//oom_score来控制的，但近年来新版linux已经使用oom_score_adj来代替旧版的oom_score
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;直接关闭&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-aiignore&#34;&gt;关闭
+echo &amp;quot;0&amp;quot; &amp;gt; /proc/sys/vm/oom-kill
+激活
+echo &amp;quot;1″ &amp;gt; /proc/sys/vm/oom-kill
+&lt;/code&gt;&lt;/pre&gt;
 </content>
         <category term="Java" scheme="https://fuuuzzy.github.io/categories/Java/" />
         <category term="java" scheme="https://fuuuzzy.github.io/tags/java/" />
