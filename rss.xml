@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>彩卷</title>
+        <title>g list ting z</title>
         <subtitle>天行健，君子以自强不息</subtitle>
         <icon>https://fuuuzzy.github.io/images/favicon.ico</icon>
         <link>https://fuuuzzy.github.io</link>
         <author>
-          <name>ztingfg</name>
+          <name>fuuuzzy</name>
         </author>
-        <description>编程爱好，擅长Java，学习分享，日常动态</description>
+        <description>一个会java的咸鱼，积极学习中</description>
         <language>zh-CN</language>
         <pubDate>Fri, 25 Apr 2025 12:20:00 +0800</pubDate>
         <lastBuildDate>Fri, 25 Apr 2025 12:20:00 +0800</lastBuildDate>

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuuuzzy.github.io</id>
-    <title>彩卷</title>
+    <title>g list ting z</title>
     <subtitle>天行健，君子以自强不息</subtitle>
     <icon>https://fuuuzzy.github.io/images/favicon.ico</icon>
     <link href="https://fuuuzzy.github.io" />
     <author>
-      <name>ztingfg</name>
+      <name>fuuuzzy</name>
     </author>
     <updated>2025-04-25T04:20:00.000Z</updated>
     <category term="java" />
